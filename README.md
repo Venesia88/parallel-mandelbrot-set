@@ -19,8 +19,8 @@ Rank (based on execution time):
 `$h` (int): number of points in the y-axis for output.  
 
 # Implementation
-## pthread version
+## pthread version (hw2a)
 used vectorization (SSE2), full details in the report.
 
-## MPI + OpenMP 
+## MPI + OpenMP (hw2b)
 details in the report
